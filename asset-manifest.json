@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apimeli/static/css/main.36bc63bb.css",
+    "main.js": "/apimeli/static/js/main.d3503500.js",
+    "static/js/453.64fce311.chunk.js": "/apimeli/static/js/453.64fce311.chunk.js",
+    "index.html": "/apimeli/index.html",
+    "main.36bc63bb.css.map": "/apimeli/static/css/main.36bc63bb.css.map",
+    "main.d3503500.js.map": "/apimeli/static/js/main.d3503500.js.map",
+    "453.64fce311.chunk.js.map": "/apimeli/static/js/453.64fce311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36bc63bb.css",
+    "static/js/main.d3503500.js"
+  ]
+}
