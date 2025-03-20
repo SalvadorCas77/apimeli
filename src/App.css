@@ -17,6 +17,12 @@
     justify-items: center;
 }
 
+.contenido {
+  width: 100%;
+  min-height: 80vh; /* Ajusta la altura de la pantalla */
+  padding: 20px;
+  box-sizing: border-box;
+}
 .titulo {
   grid-column: span 12;
   padding: 20px;
@@ -170,7 +176,7 @@ html, body {
 
 h1 {
   color: #f8d302;
-  font-size: 6rem;
+  font-size: 5rem;
   text-shadow: 4px 4px 10px #f5c904;
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
@@ -178,6 +184,7 @@ h1 {
   letter-spacing: 2px;
   letter-spacing: 1rem;
   border-bottom: 20px solid rgb(248, 233, 14);
+  text-align: center;
 }
 
 h2 {
