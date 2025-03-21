@@ -5,7 +5,7 @@ const Apiario = () => {
   return (
     <div>
       <Menu />
-      <h1>Componente Apiario.</h1>
+      <h1>Componente Apiario</h1>
       <div className="contenedor-huerto">
                <div className="titulo-huerto">
                          <h2>[4]  HUERTA DEL APIARIO</h2>

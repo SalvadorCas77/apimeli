@@ -5,7 +5,7 @@ const Alza = () => {
   return (
     <div>
       <Menu />
-      <h1>Componente Alza</h1>
+      <h1>Componente Alza.</h1>
       <div className="contenedor-alza">
               <h2> [3]  ALZA MELARIA</h2>
               {[...Array(8)].map((_, i) => (

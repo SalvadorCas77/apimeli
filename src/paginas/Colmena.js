@@ -5,7 +5,7 @@ const Colmena = () => {
   return (
     <div>
       <Menu />
-      <h1>Componente Colmena</h1>
+      <h1>Componente Colmena.</h1>
       <div className="contenedor-piezas">
              <div className="titulo-piezas" >
                     <h2>[1] COMPONENTES DE COLMENA</h2>

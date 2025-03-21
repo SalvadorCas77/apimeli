@@ -5,7 +5,7 @@ const CamaraCria = () => {
   return (
     <div>
       <Menu />
-      <h1>Componente Camara de cría</h1>
+      <h1>Componente Camara de cría.</h1>
       <div className="contenedor-camara">
              <h2>[2] CAMARA DE CRÍA</h2>
              {[...Array(10)].map((_, i) => (
